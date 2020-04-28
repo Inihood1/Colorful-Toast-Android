@@ -1,0 +1,2 @@
+include ':app', ':colorfultoast'
+rootProject.name='ColorfulToastSample'
