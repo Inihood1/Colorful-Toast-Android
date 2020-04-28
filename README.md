@@ -29,9 +29,16 @@
 Add in your `build.gradle` project level file
 ```gradle
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
+	    }
 	}
+```
+
+Add in your `build.gradle` app level file
+```gradle
+dependencies {
+  implementation 'com.github.Inihood1:Colorful-Toast-Android:1.0.1'
+}
 ```
