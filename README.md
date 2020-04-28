@@ -1,5 +1,5 @@
 # Colorful-Toast-Android
- ⋅⋅⋅Create a simple toast with different styles.
+### Create a simple toast with different styles.
 ## screenshots
 
 <p float="center">
@@ -9,4 +9,4 @@
   <img src="https://user-images.githubusercontent.com/15949588/80463507-3fcc2380-8930-11ea-9a35-53b440daef66.png" width="200" />
 </p>
 
-
+# Usage
