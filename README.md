@@ -10,3 +10,18 @@
 </p>
 
 # Usage
+```java
+ new ColorfulToast.Builder(this)
+                .setText(sms)
+                .setStroke(2, Color.BLUE)
+                .setBackgroundColor(Color.GRAY)
+                .setToastPosition(Gravity.BOTTOM)
+                .setTextColor(Color.BLACK)
+                .setTextBold()
+                .font(R.font.dosis)
+                .iconStart(getIcon())
+                .iconEnd(getIcon())
+                .setCornerRadius(5)
+                .setTextSize(18)
+                .show();
+```
