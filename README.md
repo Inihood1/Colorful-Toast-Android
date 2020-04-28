@@ -26,6 +26,7 @@
                 .show();
 ```
 # Installation
+Add in your `build.gradle` project level file
 ```gradle
 allprojects {
 		repositories {
