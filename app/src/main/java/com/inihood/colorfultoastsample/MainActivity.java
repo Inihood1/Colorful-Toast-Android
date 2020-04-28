@@ -23,9 +23,9 @@ public class MainActivity extends AppCompatActivity {
                 .setToastPosition(Gravity.BOTTOM)
                 .setTextColor(Color.BLACK)
                 .setTextBold()
-               // .font(R.font.dosis)
-              //  .iconStart(getIcon())
-               // .iconEnd(getIcon())
+                .font(R.font.dosis)
+                .iconStart(getIcon())
+                .iconEnd(getIcon())
                 .setCornerRadius(5)
                 .setTextSize(18)
                 .show();
