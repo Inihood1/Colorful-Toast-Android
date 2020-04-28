@@ -1,6 +1,6 @@
 # Colorful-Toast-Android
-## Create a simple toast with different styles
-### screenshots
+ Create a simple toast with different styles
+ screenshots
 
 <p float="center">
   <img src="https://user-images.githubusercontent.com/15949588/80463491-3ba00600-8930-11ea-9181-014edb146039.png" width="200"/>
